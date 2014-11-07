@@ -1,6 +1,4 @@
-# Prototypes
-
-Prototypes for the Guidance Guarantee Programme.
+Alpha of the Guidance Guarantee Programme.
 
 
 ## Prerequisites
@@ -15,7 +13,7 @@ Prototypes for the Guidance Guarantee Programme.
 Clone the repository:
 
 ```sh
-$ git clone https://github.com/guidance-guarantee-programme/prototypes.git
+$ git clone https://github.com/guidance-guarantee-programme/alpha.git
 ```
 
 Make sure all dependencies are available to the application:
@@ -30,12 +28,6 @@ To start the application:
 
 ```sh
 $ foreman s
-```
-
-## Creating a prototype:
-
-```sh
-$ ./bin/create_prototype YYYYMMDD-goal-variant
 ```
 
 ## Contributing
