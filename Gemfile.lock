@@ -159,6 +159,7 @@ DEPENDENCIES
   phonelib
   pry
   puma
+  rake
   sass
   sinatra
   sinatra-contrib

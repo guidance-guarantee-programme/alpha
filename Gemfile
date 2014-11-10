@@ -25,4 +25,5 @@ group :test do
   gem 'capybara'
   gem 'dotenv'
   gem 'minitest'
+  gem 'rake'
 end
