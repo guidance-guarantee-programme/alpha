@@ -1,5 +1,6 @@
 Alpha of the Guidance Guarantee Programme.
 
+[![Build Status](https://travis-ci.org/guidance-guarantee-programme/alpha.svg)](https://travis-ci.org/guidance-guarantee-programme/alpha)
 
 ## Prerequisites
 
